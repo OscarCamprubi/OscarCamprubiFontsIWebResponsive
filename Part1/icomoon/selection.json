@@ -1,0 +1,117 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M0.35 512l-0.35-312.074 384-52.144v364.218zM448 138.482l511.872-74.482v448h-511.872zM959.998 576l-0.126 448-511.872-72.016v-375.984zM384 943.836l-383.688-52.594-0.020-315.242h383.708z"
+        ],
+        "tags": [
+          "windows8",
+          "brand",
+          "os"
+        ],
+        "defaultCode": 60098,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "windows8, brand57",
+        "name": "windows8",
+        "order": 2,
+        "id": 451,
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 450
+    },
+    {
+      "icon": {
+        "paths": [
+          "M851.564 90.090c-12.060-16.404-31.204-26.090-51.564-26.090h-608c-35.346 0-64 28.654-64 64v768c0 25.884 15.592 49.222 39.508 59.128 7.918 3.28 16.234 4.874 24.478 4.874 16.656 0 33.026-6.504 45.268-18.748l237.256-237.254h165.49c27.992 0 52.736-18.192 61.086-44.91l160-512c6.074-19.432 2.538-40.596-9.522-57zM672.948 320h-224.948c-35.346 0-64 28.654-64 64s28.654 64 64 64h184.948l-40 128h-144.948c-16.974 0-33.252 6.742-45.254 18.746l-146.746 146.744v-549.49h456.948l-40 128z"
+        ],
+        "tags": [
+          "foursquare",
+          "brand",
+          "social"
+        ],
+        "defaultCode": 60118,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "foursquare, brand77",
+        "name": "foursquare",
+        "order": 4,
+        "id": 471,
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 470
+    },
+    {
+      "icon": {
+        "paths": [
+          "M60.538 0l82.144 921.63 368.756 102.37 369.724-102.524 82.3-921.476h-902.924zM784.63 301.428h-432.54l10.302 115.75h411.968l-31.042 347.010-231.844 64.254-231.572-64.254-15.83-177.512h113.494l8.048 90.232 125.862 33.916 0.278-0.078 125.934-33.992 13.070-146.55h-391.74l-30.494-341.8h566.214l-10.108 113.024z"
+        ],
+        "tags": [
+          "html-five",
+          "w3c"
+        ],
+        "defaultCode": 60132,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "html-five, w3c",
+        "name": "html-five",
+        "order": 3,
+        "id": 485,
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 484
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": false,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "name": "icomoon",
+      "autoHost": true
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16,
+    "quickUsageToken": {
+      "UntitledProject": "YzMxMGI5ZTc2NGY4YmQwYmNiODQ2ZmY4ZWNjNmY0ODMjMSMxNjM1ODczODc2IyMjZDRmZTQ1ZmU3NTRl"
+    }
+  }
+}
